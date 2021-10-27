@@ -1,0 +1,26 @@
+h1{
+	color: pink; 
+	text-align: center;
+	border: 5px solid  purple;
+
+}
+p{
+	color: red;
+	line-height: 30px;
+	font-style:italic;
+	font-weight: lighter;
+	font-size: 100%;
+}
+ body{
+ 	background-image: url(images/lovely-baby-face-pretty-cute-full-hd-wallpaper.jpg);
+ 	background-size: cover;
+ }
+
+ img{
+
+ 	width: 450px;
+ 	height: 300px;
+ 	margin: 20px;
+ 	transition:all 1s;
+ }
+this is in master branch
